@@ -1,8 +1,8 @@
 body{
 margin: 0;
 background-color: #EBB;
-text-align:center;
 font-family: 'Merriweather', serif;
+text-align: center;
 }
 
 h1{
@@ -21,12 +21,14 @@ margin-bottom: 0;
   background-color:#E4F9F5;
   height: 100px;
   margin-bottom: 0;
+  width:auto;
 }
 
 
 .top-container{
   background-color: #E4F9F5;
   height: 500px;
+  width:auto;
 }
 
 
@@ -35,11 +37,12 @@ text-decoration: underline;
 }
 .lowcloud{
   position: absolute;
-  right:660px;
+  right:999px;
 }
 .topcloud{
-  position: relative;
-  left: 300px;
+  position: absolute;
+  right: 350px;
+
 }
 .mountains{
   position: relative;
