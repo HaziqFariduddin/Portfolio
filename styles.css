@@ -35,12 +35,11 @@ margin-bottom: 0;
 .pro{
 text-decoration: underline;
 }
-.lowcloud{
-  position: absolute;
-  right:460px;
+
 }
 .topcloud{
-  position: absolute;
+  position: relative;
+  left: 20%;
 
 }
 .mountains{
