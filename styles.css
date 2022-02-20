@@ -37,11 +37,13 @@ text-decoration: underline;
 }
 .lowcloud{
   position: absolute;
-  right:999px;
+  margin left: 0;
+  margin right: 0;
+  left:540px;
 }
 .topcloud{
-  position: absolute;
-  right: 350px;
+  position: relative;
+  left:20%;
 
 }
 .mountains{
