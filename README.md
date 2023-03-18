@@ -1,2 +1,3 @@
-# Portfolio
-Haziq Fariduddin's Portfolio is outdated needs to be updated with React
+#  Legacy Portfolio
+
+2020 outdated portfolio needs to be updated in 2023
