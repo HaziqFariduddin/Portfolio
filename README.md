@@ -1,2 +1,2 @@
 # Portfolio
-Haziq Fariduddin's Portfolio (Still under development)
+Haziq Fariduddin's Portfolio is outdated needs to be updated with React
